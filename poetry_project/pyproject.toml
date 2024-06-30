@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "poetry-project"
 version = "0.1.0"
-description = ""
+description = "hw for qa guru 16"
 authors = ["Sergey Melnikov <tembelis@bk.ru>"]
 readme = "README.md"
 
